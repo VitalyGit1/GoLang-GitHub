@@ -7,7 +7,7 @@ type Person struct {
 	Name string
 	Age  int
 }
-n n n n
+
 // Создаём слайс людей
 var people []Person
 
